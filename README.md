@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sen-Gupta
 - 👀 I’m interested in CMS/Search/Experienc Plateforms
 - 🌱 I’m currently learning Grpc
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...(What is on your mind?)
 - 📫 How to reach me?? use my git!
 
 <!---
